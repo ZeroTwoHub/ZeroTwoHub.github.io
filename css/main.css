@@ -1,0 +1,140 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	background-color: #171717;
+}
+
+
+.container {
+	width: 1020px;
+	margin: 0 auto;
+}
+
+h1 h2 h3 h4 h5 h6 {
+	font-weight: normal;
+}
+
+
+.header {
+	margin-top: 31px;
+	font-weight: 400;
+}
+
+.row {
+	display: flex;
+	justify-content: space-between;
+}
+
+.Home {
+	color: #fff;
+	text-decoration: none;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 20px;
+}
+
+.App {
+	color: #fff;
+	text-decoration: none;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 20px;
+}
+
+.Home1 {
+	text-decoration: none;
+}
+
+.Home2 {
+	text-decoration: none;
+}
+
+.Home3 {
+	text-decoration: none;
+}
+
+.News {
+	color: #fff;
+	text-decoration: none;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 20px;
+}
+
+
+
+.title {
+	font-family: Montserrat;
+	font-size: 36px;
+	font-weight: 400;
+	color: #fff;
+	margin-top: 211px;
+}
+
+.desc {
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 400;
+	color: #fff;
+}
+
+.back {
+	position: absolute;
+	width: 2476px;
+	height: 1061px;
+	left: -262px;
+	margin-top: -39px;
+	top: 20px;
+
+}
+
+.btn {
+	width: 338px;
+	height: 63px;
+	background: #2B9AF9;
+	border-radius: 22px 22px 22px 0px;
+	border: none;
+	margin-top: 10px;
+}
+
+.btn:hover {
+	background-color: #367AB5;
+}
+
+.text___btn {
+	color: #fff;
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: 400;
+}
+
+.check1 {
+	position: absolute;
+	top: 220px;
+}
+
+.desc___check {
+	position: absolute;
+	color: #fff;
+	font-size: 16px;
+	font-family: Montserrat;
+	font-weight: 400;
+	top: 213px;
+	right: 880px;
+}
+
+.phone1 {
+	position: absolute;
+	top: 200px;
+	right: 247px;
+}
+
+.header1 {
+	margin-top: 447px;
+	margin-bottom: 43px;
+}
